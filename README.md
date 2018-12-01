@@ -3,7 +3,9 @@
 简易查询器
 Simple-database-queryor
 
-//该程序需要在.net 环境下运行
+//主程序为query.exe 只需有DocX.dll即可运行。
+
+//该程序需要在.net 环境下运行。
 
 //现阶段只能查询SQL Serve 数据库，但添加其他类型数据库的接口技术上完全可行。
 
